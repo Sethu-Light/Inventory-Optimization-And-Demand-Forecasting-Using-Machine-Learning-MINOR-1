@@ -1,0 +1,2 @@
+# Inventory-Optimization-And-Demand-Forecasting-Using-Machine-Learning-MINOR-1
+This project builds an intelligent inventory forecasting system using ARIMA and Random Forest. It preprocesses sales data, predicts future demand, visualizes results, enables user interaction, stores data securely, and collects feedback to continuously improve accuracy and optimize stock levels for better inventory management.
